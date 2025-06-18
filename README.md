@@ -1,7 +1,7 @@
 # 🏷️ Nike Shoe Store Webpage
 
 A responsive and modern e-commerce front-end project focused on showcasing **Nike shoes**. Built with HTML, CSS, and SVG icons, this webpage includes a home section, product listing, about section, customer reviews, and service features.  
-[For Live ](https://guru963.github.io/Shoes-e-commerce/)
+[For Live Demo Of Our Project ](https://guru963.github.io/Shoes-e-commerce/)
 ---
 
 ## 📸 Demo
