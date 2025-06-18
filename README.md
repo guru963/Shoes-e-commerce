@@ -6,6 +6,11 @@ A responsive and modern e-commerce front-end project focused on showcasing **Nik
 
 ## 📸 Demo
 ![Screenshot of Nike Shoe Store](./ss/Screenshot%202025-06-16%20195835.png)
+![Screenshot of Nike Shoe Store](./ss/Screenshot%202025-06-16%20195850.png)
+![Screenshot of Nike Shoe Store](./ss/Screenshot%202025-06-16%20195906.png)
+![Screenshot of Nike Shoe Store](./ss/Screenshot%202025-06-16%20195930.png)
+![Screenshot of Nike Shoe Store](./ss/Screenshot%202025-06-16%20195947.png)
+![Screenshot of Nike Shoe Store](./ss/Screenshot%202025-06-16%20200002.png)
 ---
 
 ## 🚀 Features
